@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sawongam Bank - Putting fun in funds since 1969</title>
+    <title>Slim sparen, slim groeien - Bendobank jouw toekomst jouw geld</title>
     <link rel="icon" href="../assets/img/logo.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -65,28 +65,25 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-5">
-                    <p class="bank-subtitle mb-1">we don't just manage your money, we meme it.</p>
+                    <p class="bank-subtitle mb-1">Bendobank - jouw geld, jouw toekomst.</p>
                     <h2 class="mb-3 bank-title">Putting "fun" <br> in "funds" <br> since 1969</h2>
                     <p class="bease-subtitle col-9 mb-4 bank-info">
-                        We're not your stuffy, suit-and-tie bankers. We're the bank that gets you - the meme lords, the
-                        avocado toast enthusiasts, the ones who still think dogecoin has potential.
+                        Bendobank is de bank voor jouw slimme spaarders en investeerders. Wij bieden innovatieve financiële oplossingen waarmee jij controle hebt over je geld en je toekomst veiligstelt. Of je nu spaart, belegt of je vermogen wilt laten groeien, Bendobank helpt je op de weg met transparante en betrouwbare bankdiensten.
                     </p>
                     <div class="row">
                         <div class="col-md-6 mb-5">
-                            <a href="register.php"><button class="btn btn-primary border-0 bank-btn">Register now</button></a>
+                            <a href="register.php"><button class="btn btn-primary border-0 bank-btn">Klant worden</button></a>
                         </div>
                         <ul class="list-inline">
-                            <li class="list-inline-item bank-phone"> <img src="../assets/img/home-call.png"
-                                    height="20px" class="zoom-on-hover"> +977 9819102869</li>
+                            <li class="list-inline-item bank-phone">
+                                <img src="../assets/img/home-call.png" height="20px" class="zoom-on-hover">
+                                <a href="https://wa.me/31621350327" class="no-underline">Neem contact op via WhatsApp: 0621350327</a>
+                            </li>
                             <li class="list-inline-item"><span class="vertical-divider"></span></li>
-                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i
-                                        class="fab fa-facebook fa-lg" id="icon-awesome"></i></a></li>
-                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i
-                                        class="fab fa-instagram fa-lg" id="icon-awesome"></i></a></li>
-                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i class="fab fa-twitter fa-lg"
-                                        id="icon-awesome"></i></a></li>
-                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i
-                                        class="fab fa-linkedin fa-lg" id="icon-awesome"></i></a></li>
+                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i class="fab fa-facebook fa-lg" id="icon-awesome"></i></a></li>
+                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i class="fab fa-instagram fa-lg" id="icon-awesome"></i></a></li>
+                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i class="fab fa-twitter fa-lg" id="icon-awesome"></i></a></li>
+                            <li class="list-inline-item zoom-on-hover fa-sm"><a href="#"><i class="fab fa-linkedin fa-lg" id="icon-awesome"></i></a></li>
                         </ul>
                     </div>
                 </div>
